@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class BankSystem {
     static public String USERNAME = "root";
-    static public String PASSWORD = "27010228";
+    static public String PASSWORD = "PASSWORD";
 
     static Connection conn;
 
@@ -162,5 +162,6 @@ public class BankSystem {
     }
 
 }
+
 
 
